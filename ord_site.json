@@ -1,0 +1,14 @@
+{
+  "title": "Open Reaction Database",
+  "links": [],
+  "metas": [
+    {
+      "name": "viewport",
+      "content": "width=device-width,initial-scale=1"
+    },
+    {
+      "name": "description",
+      "content": "We are building an open access chemical reaction database to support machine learning and related efforts in reaction prediction, chemical synthesis planning, and experiment design."
+    }
+  ]
+}
